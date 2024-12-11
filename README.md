@@ -16,5 +16,4 @@
 ![image alt](https://github.com/khshoaib/GEMS_Report_Diagram/blob/main/Images/s.jpg)
 # Class Diagram
 ![image alt](https://github.com/khshoaib/GEMS_Report_Diagram/blob/main/Images/class.jpg)
-# Swimlane Diagram
-![image alt](https://github.com/khshoaib/GEMS_Report_Diagram/blob/main/Images/sw.png)
+
